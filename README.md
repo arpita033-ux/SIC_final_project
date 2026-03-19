@@ -66,6 +66,17 @@ This project provides a **low-cost automated solution** to monitor patient flow 
 
 ---
 
+## 📁 Project Structure
+
+health-monitor-project/
+│── monitor.py
+│── credentials.json
+│── requirements.txt
+│── README.md
+
+
+---
+
 ## 🚀 Features
 - 📡 Real-time queue monitoring  
 - ⏱️ Automatic waiting time estimation  
@@ -96,7 +107,6 @@ This project provides a **low-cost automated solution** to monitor patient flow 
 
 ## ▶️ How to Run
 
-
 # Clone the repository
 git clone https://github.com/your-username/health-monitor-project.git
 
@@ -108,7 +118,6 @@ pip install -r requirements.txt
 
 # Run the project
 python monitor.py
-
-🙌 Acknowledgement
+edgement
 
 Developed as part of the Samsung Innovation Campus Program.
