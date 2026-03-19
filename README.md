@@ -5,7 +5,6 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask)
 ![IoT](https://img.shields.io/badge/Domain-IoT-green)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-red?logo=raspberrypi)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
